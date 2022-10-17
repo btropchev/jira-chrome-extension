@@ -1,0 +1,13 @@
+{
+  "name": "Create Jira subtasks",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "JiraTask"
+  },
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo512.png"
+  }
+}
